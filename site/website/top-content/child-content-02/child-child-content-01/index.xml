@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a3fc</objectGroupId>
+	<objectId>a3fc81ea-cf57-925d-af22-9381a868dc08</objectId>
+	<internal-name>child-child-content-01</internal-name>
+	<title_t>child-child-content-01</title_t>
+	<articles_title_t>child-child-content-01</articles_title_t>
+	<disabled>false</disabled>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>child-child-content-01</folder-name>
+	<category_s>style</category_s>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<max_articles_i>10</max_articles_i>
+	<createdDate>2022-03-04T20:59:40.721Z</createdDate>
+	<createdDate_dt>2022-03-04T20:59:40.721Z</createdDate_dt>
+	<lastModifiedDate>2022-03-04T20:59:40.721Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-04T20:59:40.721Z</lastModifiedDate_dt>
+</page>
