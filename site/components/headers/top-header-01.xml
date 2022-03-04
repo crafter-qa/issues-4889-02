@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/header</content-type>
+	<display-template>/templates/web/components/header.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>45d7</objectGroupId>
+	<objectId>45d7c52c-1162-7624-0685-990e929dae38</objectId>
+	<file-name>top-header-01.xml</file-name>
+	<folder-name/>
+	<internal-name>top-header-01</internal-name>
+	<logo_text_t/>
+	<business_name_s>top-header-01</business_name_s>
+	<disabled>false</disabled>
+	<logo_s/>
+	<createdDate>2022-03-04T21:00:49.638Z</createdDate>
+	<createdDate_dt>2022-03-04T21:00:49.638Z</createdDate_dt>
+	<lastModifiedDate>2022-03-04T21:00:49.638Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-03-04T21:00:49.638Z</lastModifiedDate_dt>
+</component>
